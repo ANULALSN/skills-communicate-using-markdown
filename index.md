@@ -17,3 +17,9 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```python
 print("Hello World")
 ```
+- [x] Added Headers
+- [x] Added Image
+- [x] Added Code
+- [ ] Added List
+- [ ] Merge
+- [ ] Good Bye
